@@ -1,6 +1,6 @@
 ## Welcome to my coding projects website
 
-I am a Computer Science major, currently attending the University of Missouri-Kansas City. I enjoy programming, video games, writing, playing drums, and learning new things. On this website I will be showing my projects that I work on throughout my time at UMKC as well as in my spare time.
+I am a Computer Science major, currently attending the University of Missouri-Kansas City. I enjoy programming, video games, writing, playing drums, and learning new things. The languages I have worked with are Python, C++, Java, C#, and SQL. On this website I will be showing my projects that I work on throughout my time at UMKC as well as in my spare time.
 
 ## Breakout
 
