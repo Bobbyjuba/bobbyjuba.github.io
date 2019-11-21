@@ -2,34 +2,34 @@
 
 I am a Computer Science major, currently attending the University of Missouri-Kansas City. I enjoy programming, video games, writing, playing drums, and learning new things. On this website I will be showing my projects that I work on throughout my time at UMKC as well as in my spare time.
 
-### Markdown
+## Breakout
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a version of Breakout that I have programmed in C#. I intend on expanding upon it in the future.
 
-```markdown
-Syntax highlighted code block
+https://github.com/Bobbyjuba/Breakout
 
-# Header 1
-## Header 2
-### Header 3
+## Nine Men's Morris
 
-- Bulleted
-- List
+This project is for my CS 449 class. We have been tasked with creating our own version of Nine Men's Morris. My group and I have created a version that allows for human vs computer and human vs human gameplay.
 
-1. Numbered
-2. List
+https://github.com/Bobbyjuba/NineMensMorris
 
-**Bold** and _Italic_ and `Code` text
+## Parking Lot Manager
 
-[Link](url) and ![Image](src)
-```
+This project was to help us understand how databases work and how they can be interacted with. The entirety of this code is my own work, and as a result, the project is only completed up to a certain point. My group members did not do their part of the assignment, so this code is still incomplete. I would like to go back and finish it at some point.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://github.com/Bobbyjuba/CS470GroupProject
 
-### Jekyll Themes
+## C++ Calendar
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bobbyjuba/bobbyjuba.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is just a simple C++ calendar program I am working on. I started it as a way to expand upon my knowledge of C++. I still have more to add to it.
 
-### Support or Contact
+https://github.com/Bobbyjuba/CppCalendar
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Collaborative Projects
+
+These projects are small, simple projects that my friends and I worked on for school
+
+https://github.com/angad-singh15/MorseCode
+
+https://github.com/Nate314/InfixParser
