@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my coding projects website
 
-You can use the [editor on GitHub](https://github.com/Bobbyjuba/bobbyjuba.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Computer Science major, currently attending the University of Missouri-Kansas City. I enjoy programming, video games, writing, playing drums, and learning new things. On this website I will be showing my projects that I work on throughout my time at UMKC as well as in my spare time.
 
 ### Markdown
 
